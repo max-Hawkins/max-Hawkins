@@ -20,10 +20,10 @@ description: "Hopefully useful information about me"
 
 # List of links in the navigation bar
 navbar-links:
-  About:
-    - Resume: "resume"
+  About: ""
+  Resume: "resume"
   Projects: "projects"
-  Websites:
+  My Websites:
     - Naturally Fundamental - Interactive Science Education: "https://naturallyfundamental.com/"
     - The Climate Gap - Travel and Tech: "http://theclimategap.com/"
 
