@@ -21,6 +21,7 @@ description: Hopefully useful information about me
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
+    - Resume: "http://maxhawkins.info/resume/"
   Projects: "projects"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
