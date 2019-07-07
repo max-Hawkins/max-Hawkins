@@ -20,8 +20,8 @@ description: Hopefully useful information about me
 
 # List of links in the navigation bar
 navbar-links:
-  About: "http://maxhawkins.info"
-    - Resume: "http://maxhawkins.info/resume/"
+  About: ""
+    - Resume: "resume"
   Projects: "projects"
   Websites:
     - Naturally Fundamental - Interactive Science Education: "https://naturallyfundamental.com/"
