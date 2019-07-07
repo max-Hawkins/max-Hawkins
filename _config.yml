@@ -20,7 +20,7 @@ description: "Hopefully useful information about me"
 
 # List of links in the navigation bar
 navbar-links:
-  About: ""
+  About: "http://maxhawkins.info/"
   Resume: "resume"
   Projects: "projects"
   My Websites:
